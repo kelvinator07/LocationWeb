@@ -1,0 +1,40 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.maindiv{
+	background-color:lightblue;
+	width:50%;
+	margin:auto
+}
+
+.maindiv2{
+	background-color:lightblue;
+	width:50%;
+	margin:auto
+}
+
+.elem {
+  border: 1px solid black;
+  margin: 10px 5px;
+}
